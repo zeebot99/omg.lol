@@ -1,6 +1,6 @@
 # omg.lol
 
-This repo is a version-controlled "source of truth" for my **omg.lol** address configuration.
+This repo is a version-controlled "source of truth" for my **omg.lol** address configuration. Thanks to Brennan for the idea and the intitial code! Go check out the forked repo.
 
 **Everything auto-syncs via GitHub Actions!** Push changes to any directory and they're automatically deployed to omg.lol:
 
