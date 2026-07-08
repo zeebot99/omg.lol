@@ -16,4 +16,4 @@ Disallow: /
 User-agent: Claude-Web
 Disallow: /
 
-Sitemap: https://brennan.omg.lol/sitemap.xml
+Sitemap: https://zeebot.omg.lol/sitemap.xml

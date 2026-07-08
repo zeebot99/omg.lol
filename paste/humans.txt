@@ -1,71 +1,48 @@
 /* TEAM */
 
-Writer & Developer: Brennan Kenneth Brown (Kenny)
-Contact: mail [at] brennanbrown.ca
-Location: Calgary, Alberta (Mohkínstsis), Canada
-Website: brennanbrown.ca
+Writer & Developer: zeebot (zee)
+Contact: zeebot10 [at] proton.me
+Location: San Jose, CA
+Website: zeebots-space.neocities.org
 
 /* THANKS */
 
-Yvonne, my light of sunbeam!
-My father, who got me my first kitchen job and taught me mise en place
-The Write Club community, for three years of showing up
-The souls on Tumblr who read my poetry
-Every person who's ever left a real, human comment
+My sweetheart, my partner in everything
+My cat, Minerva
+My friends for celebrating my wins with me
+Everyone who's ever open-sourced their website
 
 /* SITE */
 
-Last update: 2025/12/13
+Last update: 2026/07/08
 Language: English
 Doctype: HTML5
-IDE: Bear, VS Code, sometimes just pen and paper
-Tech Stack: JAMstack (Eleventy, Hugo, Astro)
+IDE: Capacities.io, Obsidian, VS Code
+Tech Stack: HTML5/CSS3/JavaScript
 Hosting: omg.lol
 Philosophy: IndieWeb, A11y-first, human-made
 
 /* VALUES */
 
 No AI-generated content
-No tracking beyond privacy-respecting analytics  
-No paywalls on essential information
+No tracking or analytics  
+No paywalls
 Yes to slow web, accessible design, portable content
 Yes to humans talking to humans
 
 /* INSPIRATION */
 
-Mary Oliver, William Carlos Williams, Tommy Pico
-The Mountain Goats, Flawed Mangoes
-Dead Poets Society
+Brennan Day
+Shellsharks
 Everyone fighting to keep the internet weird
-
-"We don't read and write poetry because it's cute. 
-We read and write poetry because we are members of the human race."
-
-                           _.-._
-                         .'  |  '.
-                        /   /|\   \
-                       ;   / | \   ;
-                       |  |  |  |  |
-                    .-'|  |  |  |  |'-.
-                   /   |  |  |  |  |   \
-                 -;   /   |  |  |   \   ;-
-               ===|  |   /   |   \   |  |===
-                --'. '. /    |    \ .' .'--
-                    '._'.__  |  __.'_.'
-                        '--. | .--'
-                           | | |
-                          /  |  \
-                         '._____.'
 
 /* FIND ME */
 
-Poetry: bkpoetry.com
-Writing: blog.brennanbrown.ca  
-Code: github.com/brennanbrown
-Studio: berryhouse.ca
-Collective: writeclub.ca
-Bluesky: @brennanbrown.ca
-LinkedIn: /in/brennankbrown
+Writing: TBA  
+Code: github.com/zeebot99
+Website: zeebots-space.neocities.org
+Mastodon: social.lol/@zeebot
+LinkedIn: /in/taylor-z-scott
 
 Made with care by human hands.
-Last cup of coffee: just now.
+I <3 my computer and all the little gay people stuck inside!
