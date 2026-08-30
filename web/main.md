@@ -28,7 +28,8 @@ Find other [homepages like this one](https://home.omg.lol/directory).
 
 --- Profile Items ---
 
-- [zee's space](https://zeebots-space.neocities.org)⧉ {user-astronaut}
+- [my neocities website](https://zeebots-space.neocities.org)⧉ {cat}
+- [zeebot's space (blog)](https://zeebots.space)⧉ {user-astronaut}
 - [my digital garden](https://zeebots-garden.vercel.app/)⧉ {tree}
 - [github](https://github.com/zeebot99)⧉
 - [sourcehut](https://sr.ht/~zeebot/)⧉
