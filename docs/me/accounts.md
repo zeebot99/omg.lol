@@ -27,7 +27,7 @@
 # ================================
 
 - name: Website
-  url: https://zeebots-space.neocities.org
+  url: https://zeebot.omg.lol
   icon: <i class="fas fa-globe"></i>
 
 - name: LinkedIn
@@ -36,23 +36,19 @@
   icon: <i class="fab fa-linkedin"></i>
 
 - name: Codepen
-  url: https://codepen.io/brennan
+  url: https://codepen.io/typestooloud
   icon: <i class="fab fa-codepen"></i>
 
 # ================================
 # SOCIAL MEDIA
 # ================================
 
-- name: Mastodon (mastodon.social)
-  url: https://mastodon.social/@zeebot
-  icon: <i class="fab fa-mastodon"></i>
-
-- name: Mastodon (me.dm) 
-  url: https://me.dm/@brennanbrown
+- name: Mastodon (social.lol)
+  url: https://social.lol/@zeebot
   icon: <i class="fab fa-mastodon"></i>
 
 - name: Discord
-  url: https://discord.com/users/untowards
+  url: https://discord.com/users/zeebot99
   icon: <i class="fab fa-discord"></i>
 
 # ================================
